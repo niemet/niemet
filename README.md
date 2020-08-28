@@ -29,10 +29,6 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Ruby</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
-      </td>
-      <td width="25%" align="center">
         <span><b>Laravel</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
@@ -57,10 +53,6 @@ Here are some ideas to get you started:
       <td width="25%" align="center">
         <span><b>Sass/Scss</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Symfony</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/symfony.svg">
       </td>
       <td width="25%" align="center">
         <span><b>Netlify</b></span><br><br><br>
