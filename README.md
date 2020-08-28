@@ -43,8 +43,8 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>VS Code</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span><b>Flutter</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
       <td width="20%" align="center">
         <span><b>Git</b></span><br><br><br>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>Netlify</b></span><br><br><br>
+        <span><b>Wordpress</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
       </td>
     </tr>
