@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     </tr>
     <tr valign="top" style="background-color: #fff;">
       <td width="25%" align="center">
-        <span><b>React Native</b></span><br><br><br>
+        <span><b>React and React Native</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
       </td>
       <td width="25%" align="center">
         <span><b>Netlify</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
       </td>
     </tr>
   </tbody>
